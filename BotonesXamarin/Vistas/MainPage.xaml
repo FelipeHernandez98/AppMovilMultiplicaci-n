@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BotonesXamarin.Vistas.MainPage" Title="App Multiplicación"
+             BackgroundColor="Gray">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Hola"
+                     Order="Secondary"
+                     x:Name="btnhola"
+                     Clicked="btnhola_Clicked"/>
+        <ToolbarItem Text="Prueba"
+                     IconImageSource="casa.png"
+                     x:Name="btncasa"
+                     Clicked="btncasa_Clicked"
+                     Order="Primary"/>
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout BackgroundColor="Gray" VerticalOptions="Center"
+                 Margin="5">
+        <Label Text="MULTIPLICACIÓN"
+               FontFamily="Arial"
+               TextColor="White"
+               FontSize="20"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        <Entry Placeholder="Numero 1" PlaceholderColor="White" 
+               TextColor="White" x:Name="txtnumero1"
+               VerticalOptions="CenterAndExpand" Keyboard="Numeric"/>
+        <Entry Placeholder="Numero 2" PlaceholderColor="White" 
+               TextColor="White" x:Name="txtnumero2"
+               VerticalOptions="CenterAndExpand" Keyboard="Numeric"/>
+        <Button x:Name="btnCalcular" Clicked="btnCalcular_Clicked" 
+                Text="Calcular" VerticalOptions="CenterAndExpand"
+                Margin="30,0,30,5" CornerRadius="15" BackgroundColor="DarkBlue"
+                TextColor="White" FontAttributes="Bold"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\bin\Debug\netstandard2.0\BotonesXamarin.deps.json
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\bin\Debug\netstandard2.0\BotonesXamarin.dll
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\bin\Debug\netstandard2.0\ref\BotonesXamarin.dll
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\bin\Debug\netstandard2.0\BotonesXamarin.pdb
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\BotonesXamarin.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\BotonesXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\BotonesXamarin.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\BotonesXamarin.AssemblyInfo.cs
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\BotonesXamarin.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\BotonesXamarin.dll
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\ref\BotonesXamarin.dll
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\BotonesXamarin.pdb
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\Vistas\MainPage.xaml.g.cs
+C:\Users\SISTEMAS\source\repos\BotonesXamarin\BotonesXamarin\BotonesXamarin\obj\Debug\netstandard2.0\Vistas\PrimeraPagina.xaml.g.cs
